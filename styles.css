@@ -1,2 +1,42 @@
 
 /* Your CSS Code here. */
+
+.question-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.options {
+    margin-bottom: 20px;
+}
+
+blockquote {
+    max-width: 600px;
+    margin: 10px;
+    padding: 15px;
+    border-left: 8px solid green;
+    background-color: #f8fffe;
+    font-weight: bold;
+}
+
+footer {
+    font-size: 0.9em;
+    margin-top: 10px;
+}
+
+footer a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
